@@ -1,0 +1,4 @@
+{
+    "FACTORY_ADDRESS": "[CampaignFactory address]",
+    "INFURA_ENDPOINT": "https://rinkeby.infura.io/v3/[project id]"
+}
